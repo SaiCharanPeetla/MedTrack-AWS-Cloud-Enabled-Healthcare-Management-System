@@ -46,7 +46,7 @@ The application uses **AWS DynamoDB** for database storage and integrates loggin
 
 ---
 
-## 🏗️ Project Structure
+
 
 ```
 Medtrack/
