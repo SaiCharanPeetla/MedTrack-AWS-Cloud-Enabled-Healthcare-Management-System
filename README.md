@@ -45,7 +45,7 @@ The application uses **AWS DynamoDB** for database storage and integrates loggin
 * Health check API endpoint
 
 ---
-
+## 🏗️ Project Structure
 
 
 ```
