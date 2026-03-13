@@ -228,8 +228,8 @@ INFO - Appointment booked
 ## 👨‍💻 Author
 
 Peetla Sai Charan 
-📧 Email: peetlasaiharan@gmail.com
-📱 Phone: +91 8328229532
+||📧 Email: peetlasaiharan@gmail.com
+||📱 Phone: +91 8328229532
 
 ---
 
