@@ -227,10 +227,12 @@ INFO - Appointment booked
 
 ## 👨‍💻 Author
 
-MedTrack Project – Flask + AWS Cloud Application
+Peetla Sai Charan 
+📧 Email: peetlasaiharan@gmail.com
+📱 Phone: +91 8328229532
 
 ---
 
 ## 📄 License
 
-Educational and open-source use.
+Educational and open-source use free to use.
