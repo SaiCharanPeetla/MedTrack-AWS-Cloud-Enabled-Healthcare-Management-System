@@ -3,12 +3,7 @@
 ## 📌 Overview
 
 **MedTrack** is a cloud-based medical appointment management web application built using **Flask** and **AWS services**.
-The system allows:
 
-* Patients to book appointments
-* Doctors to manage appointments
-* Doctors to submit diagnoses
-* Automated notifications using AWS SNS
 
 
 The application uses **AWS DynamoDB** for database storage and integrates logging and health monitoring.
