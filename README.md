@@ -10,7 +10,7 @@ The system allows:
 * Doctors to submit diagnoses
 * Automated notifications using AWS SNS
 
-
+The application uses **AWS DynamoDB** for database storage and integrates logging and health monitoring.
 
 
 ---
