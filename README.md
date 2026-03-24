@@ -15,8 +15,6 @@ The application uses **AWS DynamoDB** for database storage and integrates loggin
 
 ---
 
-## 🚀 Features
-### 👤 User Management
 
 * User Registration (Doctor / Patient)
 * Login & Logout system
