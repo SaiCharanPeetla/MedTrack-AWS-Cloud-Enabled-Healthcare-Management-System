@@ -4,7 +4,7 @@
 The system allows:
 * Patients to book appointments
 * Doctors to manage appointments
-* Doctors to submit diagnoses
+*  to submit diagnoses
 * Automated notifications using AWS SNS
 
 
