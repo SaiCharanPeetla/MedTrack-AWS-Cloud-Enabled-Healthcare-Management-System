@@ -42,7 +42,7 @@ The application uses **AWS DynamoDB** for database storage and integrates loggin
 ### 📊 Monitoring
 
 * Application logging
-* Health check API endpoint
+*check API endpoint
 
 ---
 ## 🏗️ Project Structure
