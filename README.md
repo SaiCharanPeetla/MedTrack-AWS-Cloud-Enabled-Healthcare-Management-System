@@ -1,7 +1,7 @@
 # MedTrack – Medical Appointment Management System
 ## 📌 Overview
 **MedTrack** is a cloud-based medical appointment management web application built using **Flask** and **AWS services**.
-The system allows:
+ system allows:
 * Patients to book appointments
 * Doctors to manage appointments
 * Doctors to submit diagnoses
