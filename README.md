@@ -39,7 +39,7 @@ The application uses **AWS DynamoDB** for database storage and integrates loggin
 
 * AWS SNS sends notification when appointment is booked
 
-### 📊 Monitoring
+### 📊 Monitorin
 
 * Application logging
 * Health check API endpoint
