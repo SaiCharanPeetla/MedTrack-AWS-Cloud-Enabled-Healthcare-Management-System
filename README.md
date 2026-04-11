@@ -25,7 +25,7 @@ The application uses **AWS DynamoDB** for database storage and integrates loggin
 
 * Book appointments
 * View appointments (Doctor & Patient)
-* Sea appointments by date
+* Search appointments by date
 
 
 ### 🩺 Diagnosis System
