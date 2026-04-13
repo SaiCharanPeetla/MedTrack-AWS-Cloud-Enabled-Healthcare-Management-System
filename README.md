@@ -10,7 +10,7 @@
 
 
 
-Th application uses **AWS DynamoDB** for database storage and integrates logging and health monitoring.
+The application uses **AWS DynamoDB** for database storage and integrates logging and health monitoring.
 
 
 ---
