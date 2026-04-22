@@ -8,7 +8,8 @@
 * Automovites notifications using AWS SNS
 The application uses **AWS DynamoDB** for database storage and integrates logging and health monitoring.
 ---
-
+## 🚀 Features
+### 👤 User Management
 
 * User Registration (Doctor / Patient)
 * Login & Logout system
